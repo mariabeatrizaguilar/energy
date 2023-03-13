@@ -1,0 +1,133 @@
+﻿Generators installed in 2020 by major energy source,,,,,,,,,,,,,,
+Energy Source,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+Wind,"1,498","22,140,254","14,588",194,"14,781",178,48,172,82,4,86,92,4,96
+Solar,"1,655","17,210,678","10,293",107,"10,401",19,8,19,547,14,561,566,14,580
+Natural gas,"1,116","6,090,503","4,711",745,"5,456",236,68,176,20,11,31,58,26,84
+Battery storage,758,"372,778",457,34,492,10,5,9,46,7,53,48,8,56
+Hydro,"1,415","218,829",27,128,155,27,43,39,1,3,4,3,3,6
+Biomass,"2,886","218,182",14,62,76,3,12,8,4,5,9,4,8,12
+Petroleum liquids,795,28388,10,25,36,3,2,3,3,11,14,6,16,22
+,,,,,,,,,,,,,,
+Generators installed in 2020 by prime mover,,,,,,,,,,,,,,
+Prime Mover,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Generator Capacity (MW),,,Number of Generators,,,,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,,,
+Steam turbine,895,"48,323",10,44,54,10,44,27,1,1,2,,,
+Combustion turbine,636,"238,863",241,134,375,60,67,63,4,2,6,,,
+Combustion turbine (as part of combined cycle),"1,121","3,358,528","2,770",226,"2,996",252,75,214,11,3,14,,,
+Steam turbine (as part of combined cycle),"1,210","2,194,453","1,677",137,"1,814",240,46,181,7,3,10,,,
+Internal combustion engine,"1,514","496,906",38,290,328,1,7,4,45,41,86,,,
+Hydroelectric turbine,"1,415","218,829",27,128,155,9,43,26,3,3,6,,,
+Onshore wind turbine,"1,498","22,140,254","14,588",194,"14,781",159,48,154,92,4,96,,,
+Photovoltaic,"1,655","17,210,678","10,293",107,"10,401",18,8,18,566,14,580,,,
+"Energy storage, battery ",758,372778,457,34,492,10,4,9,48,8,56,,,
+,,,,,,,,,,,,,,
+Generators installed in 2020 by Census region,,,,,,,,,,,,,,
+Census Region,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+South,"1,410","15,456,135","10,422",536,"10,958",51,67,52,204,8,212,237,10,247
+Midwest,"1,565","14,154,203","8,773",272,"9,045",40,14,38,221,20,241,236,24,260
+West,"1,503","12,459,809","7,921",371,"8,292",55,27,53,143,14,157,156,26,182
+Northeast,"1,358","4,209,465","2,984",116,"3,100",22,9,21,135,13,148,148,19,167
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Generators installed in 2020 by top five states in capacity additions,,,,,,,,,,,,,,
+State,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+TX,"1,264","6,474,674","5,124",0,"5,124",100,0,100,51,0,51,78,0,78
+CA,"1,544","5,373,547","3,459",22,"3,480",59,4,54,59,6,65,68,9,77
+FL,"1,196","2,138,680","1,640",149,"1,788",75,74,75,22,2,24,22,2,24
+IA,"1,731","2,621,764","1,446",69,"1,514",131,11,89,11,6,17,13,6,19
+NY,"1,288","1,896,929","1,459",13,"1,473",29,3,27,51,4,55,56,6,62
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Natural gas generators installed in 2020 by technology,,,,,,,,,,,,,,
+Technology,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+Combined cycle,"1,155","5,552,981","4,447",363,"4,810",889,182,687,5,2,7,18,6,24
+Combustion turbine,636,"238,863",241,134,375,120,67,94,2,2,4,4,2,6
+Internal combustion engine,"1,103","298,659",24,247,271,2,35,14,13,7,20,36,18,54
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Natural gas generators installed in 2020 at combined-cycle plants by prime mover,,,,,,,,,,,,,,
+Generator Type,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Generator Capacity (MW),,,Number of Generators,,,,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,,,
+Combustion turbine,"1,121","3,358,528","2,770",226,"2,996",252,75,214,11,3,14,,,
+Steam turbine,"1,210","2,194,453","1,677",137,"1,814",240,46,181,7,3,10,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Solar PV generators installed in 2020 by Census region,,,,,,,,,,,,,,
+Census Region,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+South,"1,494","9,865,930","6,544",61,"6,605",41,30,41,158,2,160,163,2,165
+West,"1,788","4,871,052","2,687",36,"2,724",25,9,25,107,4,111,112,4,116
+Midwest,"2,055","1,131,544",544,7,550,3,1,3,169,5,174,173,5,178
+Northeast,"2,576","1,342,152",518,3,521,5,1,4,113,3,116,118,3,121
+,,,,,,,,,,,,,,
+Solar PV generators installed in 2020 by top five states in capacity additions,,,,,,,,,,,,,,
+State,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+TX,"1,264","3,126,951","2,473",0,"2,473",155,0,155,16,0,16,17,0,17
+CA,"1,810","3,008,219","1,660",2,"1,662",37,1,35,45,2,47,48,2,50
+FL,"1,252","2,052,268","1,640",0,"1,640",75,0,75,22,0,22,22,0,22
+GA,"1,850","1,310,708",651,58,709,27,58,28,24,1,25,24,1,25
+VA,"1,707","1,118,483",655,0,655,47,0,47,14,0,14,18,0,18
+,,,,,,,,,,,,,,
+Solar PV generators installed in 2020 by PV panel type and tracking system,,,,,,,,,,,,,,
+PV Panel Material and Tracking System,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+"Crystalline silicon, fixed tilt","1,957","2,408,370","1,226",5,"1,231",6,1,6,210,5,215,221,5,226
+"Crystalline silicon, axis-based tracking","1,587","10,064,710","6,333",7,"6,340",25,1,24,255,5,260,262,5,267
+"Thin-film CdTe, fixed tilt","1,684","504,584",300,0,300,19,0,19,16,0,16,16,0,16
+"Thin-film CdTe, axis-based tracking","1,631","3,519,031","2,067",90,"2,157",53,45,53,39,2,41,40,2,42
+Other,"1,914","713,983",368,5,373,14,2,13,27,2,29,27,2,29
+,,,,,,,,,,,,,,
+Solar PV generators installed in 2020 by total capacity added at plant,,,,,,,,,,,,,,
+Total Added Capacity at Plant,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,"At New
+Plants",At Existing Plants,Total,"At New
+Plants",At Existing Plants,Total,"At New
+Plants",At Existing Plants,Total,"At New
+Plants",At Existing Plants,Total
+1-5 MW,"2,577","2,311,466",880,17,897,2,1,2,397,12,409,408,12,420
+5-10 MW,"2,390","672,808",282,0,282,9,0,9,33,0,33,34,0,34
+10-100 MW,"1,668","8,219,764","4,838",90,"4,928",52,45,52,93,2,95,97,2,99
+100-400 MW,"1,399","6,006,640","4,294",0,"4,294",179,0,179,24,0,24,27,0,27
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Wind generators installed in 2020 by Census region,,,,,,,,,,,,,,
+Census Region,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+Midwest and Northeast,"1,598","12,371,039","7,549",194,"7,742",164,48,155,46,4,50,53,4,57
+South,"1,329","4,793,823","3,607",0,"3,607",225,0,225,16,0,16,17,0,17
+West,"1,450","4,975,392","3,432",0,"3,432",172,0,172,20,0,20,22,0,22
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Wind generators installed in 2020 by plant size,,,,,,,,,,,,,,
+Plant Size,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+1-25 MW,"5,059","366,814",69,4,72,7,2,6,10,2,12,14,2,16
+25-100 MW,"2,260","1,548,684",625,60,685,63,60,62,10,1,11,10,1,11
+100-200 MW,"1,531","7,632,206","4,856",130,"4,986",157,130,156,31,1,32,32,1,33
+>200 MW,"1,393","12,592,550","9,038",0,"9,038",292,0,292,31,0,31,36,0,36
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Wind generators installed in 2020 by wind class,,,,,,,,,,,,,,
+Wind Class,Average Construction Cost ($/kilowatt of installed nameplate capacity),Total Construction Cost (thousand $),Total Capacity (MW),,,Average New Capacity (MW),,,Number of Plants,,,Number of Generators,,
+,,,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total,At New Plants,At Existing Plants,Total
+1,"1,991","783,796",392,2,394,196,2,131,2,1,3,2,1,3
+2,"1,443","13,290,141","9,080",132,"9,212",189,66,184,48,2,50,50,2,52
+3 and 4,"1,559","8,066,318","5,116",60,"5,176",160,60,157,32,1,33,40,1,41
+,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,
+Data includes facilities with a total generator nameplate capacity of 1 megawatt (MW) or more. Solar data does not include distributed generation capacity.,,,,,,,,,,,,,,
+"Government grants, tax benefits, or other incentives are excluded from these costs.",,,,,,,,,,,,,,
+Solar photovoltaic (PV) data are based on reported alternating current (AC) capacity and may differ from other cost and capacity estimates that use direct current (DC) ratings of PV panels.,,,,,,,,,,,,,,
+"Petroleum liquids includes distillate fuel oil, jet fuel, kerosene, residual fuel oil, and waste oil.",,,,,,,,,,,,,,
+Biomass includes both liquid and gaseous biomass fuels.,,,,,,,,,,,,,,
+Some generation technologies were excluded from this analysis to avoid disclosure of individual company data.,,,,,,,,,,,,,,
+Average construction cost is based on the nameplate capacity weighted average cost per kilowatt of installed nameplate capacity.,,,,,,,,,,,,,,
+Total capacity is the sum of the nameplate capacity of generators included in each group.,,,,,,,,,,,,,,
+Average new capacity is based on the nameplate capacity of new plants or new additions of nameplate capacity to existing plants. New plants did not previously have operable units and are typically recently constructed. Existing plants have at least one previously operable generator and are not newly constructed.,,,,,,,,,,,,,,
+Totals may not equal sum of components due to independent rounding.,,,,,,,,,,,,,,
+"Data source: U.S. Energy Information Administration, Form EIA-860, Annual Electric Generator Report",,,,,,,,,,,,,,
