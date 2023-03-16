@@ -1,4 +1,4 @@
-Price Hub,Trade Date,Delivery Start Date,Delivery End Date,High Price $/MWh,Low Price $/MAWh,Wtd avg price $/MWh,Change,Daily Volume MWh,Number of Trades,Number of Counterparties 
+PriceHub,TradeDate,DeliveryStartDate,DeliveryEndDate,HighPrice$/MWh,LowPrice$/MAWh,Wtdavgprice$/MWh,Change,DailyVolumeMWh,NumberofTrades,NumberofCounterparties 
 Mid C Peak,12/28/2022,12/29/2022,12/29/2022,228,215,222.2,7.18,29200,72,18
 Mid C Peak,12/29/2022,12/30/2022,12/31/2022,123,115,119.45,-102.75,30400,38,11
 Mid C Peak,12/30/2022,1/3/2023,1/3/2023,175,165,169.6,50.15,2000,5,5
